@@ -5,6 +5,8 @@
 
 1.小说源：
 -
+#### x-一读小说（已修复）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YiDuXiaoShuo/x-YiDuXiaoShuo.xbs
 #### x-80电子书（已修）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/80DianZiShu/x-80DianZiShu.xbs
 #### x-99藏书网
@@ -45,8 +47,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/biqu5200/x-biqu5200.xbs
 #### x-知轩藏书
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ZhiXuanCangShu/x-ZhiXuanCangShu.xbs
-#### x-一读小说（已修复）
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YiDuXiaoShuo/x-YiDuXiaoShuo.xbs
 #### x-哔哩轻小说（已修复）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiLiQingXiaoShuo/x-BiLiQingXiaoShuo.xbs
 #### x-fd80（已修复搜索和目录问题）
