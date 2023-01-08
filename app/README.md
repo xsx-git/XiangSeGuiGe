@@ -10,8 +10,6 @@
 
 ### 已弃：
     https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/app/README.md
-#### x-80电子书（站挂了，弃）
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/80DianZiShu/x-80DianZiShu
 #### x-巴巴鱼（站挂了，弃）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BaBaYu/x-BaBaYu
 #### x-思兔（站挂了，弃）
