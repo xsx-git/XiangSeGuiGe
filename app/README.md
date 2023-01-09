@@ -40,6 +40,8 @@
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/HaiTangShuWu/x-HaiTangShuWu.xbs
 #### x-秀人集（梯，污，弃）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/XiuRenJi/x-XiuRenJi.xbs
+#### x-拷贝漫画（污，弃）
+    https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KaoBeiManHua/x-KaoBeiManHua.xbs
 #### x-第一版主123（梯，污，弃）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DiYiBanZhu123/x-DiYiBanZhu123.xbs
 #### x-归尘书社（污，弃）
