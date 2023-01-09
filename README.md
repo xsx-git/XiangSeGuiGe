@@ -130,18 +130,16 @@
 
 3.漫画源：
 -
+#### x-包子漫画（优化正文）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/BaoZiManHua/x-BaoZiManHua.xbs
 #### x-666漫画（修复目录问题）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/666ManHua/x-666ManHua.xbs
-#### x-包子漫画（修）
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/BaoZiManHua/x-BaoZiManHua.xbs
 #### x-酷漫屋
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KuManWu/x-KuManWu.xbs
 #### x-七夕漫画
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/QiXiManHua/x-QiXiManHua.xbs
 #### x-yyds
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/yyds/x-yyds.xbs
-#### x-拷贝漫画
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KaoBeiManHua/x-KaoBeiManHua.xbs
 #### x-733动漫（梯）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/733DongMan/x-733DongMan.xbs
 
@@ -163,6 +161,7 @@
 #### x-红袖招（污，弃）
 #### x-海棠书屋（污，弃）
 #### x-秀人集（梯，污，弃）
+#### x-拷贝漫画（污，弃）
 #### x-第一版主123（梯，污，弃）
 #### x-归尘书社（污，弃）
 #### x-松鹤阅读（弃）
