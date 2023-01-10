@@ -56,3 +56,7 @@
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/HaoXueDianZiKeBenWang/x-HaoXueDianZiKeBenWang.xbs
 #### x-hifini（做着玩，弃）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/ys/hifini/x-hifini.xbs
+#### x-nyafun（做着玩，弃）
+    https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/sp/nyafun/x-nyafun.xbs
+#### x-樱花动漫（做着玩，弃）
+    https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/sp/YingHuaDongMan/x-YingHuaDongMan.xbs
