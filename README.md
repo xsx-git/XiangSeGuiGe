@@ -1,6 +1,6 @@
 自学练手或帮人做着玩的、禁传、禁fork
 =
-### 全部导入：（小说56，漫画6，索引3）
+### 全部导入：（小说54，漫画6，索引3）
 	https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
@@ -31,10 +31,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/JiuShiGuangWenXue/x-JiuShiGuangWenXue.xbs
 #### x-神仙书阁
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ShenXianShuGe/x-ShenXianShuGe.xbs
-#### x-147
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/147XiaoShuo/x-147XiaoShuo.xbs
-#### x-147copy（爬147的，可以当147备用站用）
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/147copy/x-147copy.xbs
 #### x-起舞中文
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QiWuZhongWen/x-QiWuZhongWen.xbs
 #### x-当书网
@@ -146,6 +142,8 @@
 
 4.废弃记录:
 -
+#### x-147（cf盾，弃）
+#### x-147copy（cf盾，弃，147备站）
 #### x-巴巴鱼（站挂了，弃）
 #### x-思兔（站挂了，弃）
 #### x-2k中文网（站挂了，弃）
