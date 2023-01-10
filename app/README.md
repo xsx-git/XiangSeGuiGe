@@ -10,6 +10,8 @@
 
 ### 已弃：
     https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/app/README.md
+#### x-西红柿
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiHongShi/x-XiHongShi
 #### x-147（cf盾，弃）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/147XiaoShuo/x-147XiaoShuo
 #### x-147copy（cf盾，弃，147备站）
