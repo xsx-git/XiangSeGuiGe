@@ -1,6 +1,6 @@
 自学练手或帮人做着玩的、禁传、禁fork
 =
-### 全部导入：（小说54，漫画6，索引3）
+### 全部导入：（小说53，漫画6，索引3）
 	https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
@@ -53,8 +53,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/AiHaoZhongWen/x-AiHaoZhongWen.xbs
 #### x-69书吧（梯）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/69ShuBa/x-69ShuBa.xbs
-#### x-西红柿
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiHongShi/x-XiHongShi.xbs
 #### x-同人圈
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TongRenQuan/x-TongRenQuan.xbs
 #### x-同人小说网
@@ -142,6 +140,7 @@
 
 4.废弃记录:
 -
+#### x-西红柿（cf盾，弃）
 #### x-147（cf盾，弃）
 #### x-147copy（cf盾，弃，147备站）
 #### x-巴巴鱼（站挂了，弃）
