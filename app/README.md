@@ -10,9 +10,9 @@
 
 ### 已弃：
     https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/app/README.md
-#### x-147（cf盾，观察中）
+#### x-147（cf盾，弃）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/147XiaoShuo/x-147XiaoShuo
-#### x-147copy（cf盾，观察中，147备站）
+#### x-147copy（cf盾，弃，147备站）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/147copy/x-147copy
 #### x-巴巴鱼（站挂了，弃）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BaBaYu/x-BaBaYu
