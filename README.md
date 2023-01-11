@@ -5,6 +5,8 @@
 
 1.小说源：
 -
+#### x-小说路上（已修复搜索）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoLuShang/x-XiaoShuoLuShang.xbs
 #### x-一读小说（已修复）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YiDuXiaoShuo/x-YiDuXiaoShuo.xbs
 #### x-80电子书（已修）
@@ -97,8 +99,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TianTianKan/x-TianTianKan.xbs
 #### x-玄幻文学（梯）
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XuanHuanWenXue/x-XuanHuanWenXue.xbs
-#### x-小说路上
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoLuShang/x-XiaoShuoLuShang.xbs
 #### x-小说馆
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/XiaoShuoGuan/x-XiaoShuoGuan.xbs
 #### x-腐书网（搜索不好用）
