@@ -1,6 +1,6 @@
 自学练手或帮人做着玩的、禁传、禁fork
 =
-### 全部导入：（小说52，漫画6，索引3）
+### 全部导入：（小说49，漫画6，索引3）
 	https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
@@ -51,8 +51,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/123Du/x-123Du.xbs
 #### x-爱好中文
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/AiHaoZhongWen/x-AiHaoZhongWen.xbs
-#### x-69书吧（梯）
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/69ShuBa/x-69ShuBa.xbs
 #### x-同人圈
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TongRenQuan/x-TongRenQuan.xbs
 #### x-同人小说网
@@ -69,8 +67,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiQuGe9x/x-BiQuGe9x.xbs
 #### x-棉花糖
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MianHuaTang/x-MianHuaTang.xbs
-#### x-大文学
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue.xbs
 #### x-黄金屋
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/HuangJinWu/x-HuangJinWu.xbs
 #### x-60文学
@@ -93,8 +89,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QiuShuWang/x-QiuShuWang.xbs
 #### x-56书库
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/56ShuKu/x-56ShuKu.xbs
-#### x-笔趣趣
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiQuQu/x-BiQuQu.xbs
 #### x-啃书网
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/KenShuWang/x-KenShuWang.xbs
 #### x-手机小说
@@ -138,6 +132,9 @@
 
 4.废弃记录:
 -
+#### x-大文学（cf盾，弃）
+#### x-笔趣趣（cf盾，弃）
+#### x-69书吧（站挂了，弃，梯）
 #### x-31小说（cf盾，弃）
 #### x-西红柿（cf盾，弃）
 #### x-147（cf盾，弃）
