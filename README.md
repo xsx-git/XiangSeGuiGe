@@ -1,6 +1,6 @@
 自学练手或帮人做着玩的、禁传、禁fork
 =
-### 全部导入：（小说53，漫画6，索引3）
+### 全部导入：（小说52，漫画6，索引3）
 	https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说源：
@@ -71,8 +71,6 @@
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MianHuaTang/x-MianHuaTang.xbs
 #### x-大文学
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue.xbs
-#### x-31小说
-	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/31XiaoShuo/x-31XiaoShuo.xbs
 #### x-黄金屋
 	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/HuangJinWu/x-HuangJinWu.xbs
 #### x-60文学
@@ -140,6 +138,7 @@
 
 4.废弃记录:
 -
+#### x-31小说（cf盾，弃）
 #### x-西红柿（cf盾，弃）
 #### x-147（cf盾，弃）
 #### x-147copy（cf盾，弃，147备站）
