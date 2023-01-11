@@ -10,6 +10,12 @@
 
 ### 已弃：
     https://ghproxy.com/https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/app/README.md
+#### x-大文学（cf盾，弃）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue
+#### x-笔趣趣（cf盾，弃）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiQuQu/x-BiQuQu
+#### x-69书吧（站挂了，弃，梯）
+	https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/69ShuBa/x-69ShuBa
 #### x-31小说（cf盾，弃）
     https://ghproxy.com/https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/31XiaoShuo/x-31XiaoShuo
 #### x-西红柿（cf盾，弃）
